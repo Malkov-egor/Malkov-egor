@@ -1,16 +1,20 @@
 ## Hi there 👋
+# Hi, I'm Egor Malkov 👋
 
-<!--
-**Malkov-egor/Malkov-egor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & IT student in Tokyo, Japan
 
-Here are some ideas to get you started:
+💻 Learning
+- Java
+- Python
+- HTML/CSS
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Interested in
+- Business System Development
+- Logistics Systems
+- Manufacturing DX
+
+🌱 Currently working on
+- Graduation Project
+- Java Applications
+- Python Projects
